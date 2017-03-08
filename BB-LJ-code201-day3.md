@@ -1,0 +1,1 @@
+Well! It's another day. I'm reteaching myself loops today. Practiced how to create a branch and file in the terminal then opening it from terminal. Basically trying to do everything through terminal today since yesterday I made the branch on gitHub. 
